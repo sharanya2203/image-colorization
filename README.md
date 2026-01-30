@@ -15,10 +15,10 @@ This project is a Streamlit-based web application that colorizes black-and-white
    cd image-colorization
 2.Then open the terminal in the project folder then run these commands
 
--python -m venv venv
--venv\Scripts\activate
--pip install -r requirements.txt
--streamlit run app.py
+ python -m venv venv
+ venv\Scripts\activate
+ pip install -r requirements.txt
+ streamlit run app.py
 ## Features
 - Upload black-and-white images
 - Real-time colorization
