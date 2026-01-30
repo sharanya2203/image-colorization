@@ -18,12 +18,12 @@ This project is a Streamlit-based web application that colorizes black-and-white
  venv\Scripts\activate
  pip install -r requirements.txt
  streamlit run app.py
-
 ## Features
-```bash
+
 - Upload black-and-white images
 - Real-time colorization
 - Side-by-side image comparison
 - Simple and interactive UI using Streamlit
+
 
 
