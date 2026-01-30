@@ -13,6 +13,7 @@ This project is a Streamlit-based web application that colorizes black-and-white
    ```bash
    git clone https://github.com/sharanya2203/image-colorization.git
    cd image-colorization
+2.Then open the terminal in the project folder then run these commands
 python -m venv venv
 
 venv\Scripts\activate
