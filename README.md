@@ -6,20 +6,20 @@ This project is a Streamlit-based web application that colorizes black-and-white
 - Streamlit
 - NumPy
 - Pillow
-- Caffe (pre-trained colorization model
+- Caffe (pre-trained colorization model)
 ## Installation and Usage
 1. Clone the repository:
    ```bash
    git clone https://github.com/sharanya2203/image-colorization.git
    cd image-colorization
-2.Then open the terminal in the project folder then run these commands
+2. Then open the terminal in the project folder then run these commands
 ```bash
  python -m venv venv
  venv\Scripts\activate
  pip install -r requirements.txt
  streamlit run app.py
+```
 ## Features
-
 - Upload black-and-white images
 - Real-time colorization
 - Side-by-side image comparison
