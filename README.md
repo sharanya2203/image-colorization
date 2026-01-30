@@ -14,8 +14,11 @@ This project is a Streamlit-based web application that colorizes black-and-white
    git clone https://github.com/sharanya2203/image-colorization.git
    cd image-colorization
 python -m venv venv
+
 venv\Scripts\activate
+
 pip install -r requirements.txt
+
 streamlit run app.py
 ## Features
 - Upload black-and-white images
